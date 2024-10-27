@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317958184201",
+    "project_id": "tk4crud",
+    "storage_bucket": "tk4crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317958184201:android:8ee9169cf3cffef2bf87d8",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzyu5LyGFGrlJfxLsc6mBM2jKUqR9C6dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
